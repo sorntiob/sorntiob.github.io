@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sorntiob.github.io/sitemap.html.gz
+Sitemap: https://sorntiob.github.io/app/sitemap.html.gz
+Sitemap: https://sorntiob.github.io/assets/sitemap.html.gz
+Sitemap: https://sorntiob.github.io/css/sitemap.html.gz
+Sitemap: https://sorntiob.github.io/includes/sitemap.html.gz
+Sitemap: https://sorntiob.github.io/item/sitemap.html.gz
+Sitemap: https://sorntiob.github.io/src/sitemap.html.gz
